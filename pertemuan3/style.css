@@ -1,0 +1,10 @@
+.background-styling{
+    width: 300px;
+    height: 300px;
+    flex-direction: column;
+    justify-content: center;
+    opacity: 0,5;
+    background: linear-gradient(to right, yellow,blue,red);
+    box-shadow: 10px 10px 40px black ;
+    background-color: rgb(11, 127, 205) url(https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1453728013993-6d66e9c9123a%3Fixlib%3Drb-1.2.1%26ixid%3DMnwxMjA3fDB8MHxzZWFyY2h8Mnx8bGVuc3xlbnwwfHwwfHw%253D%26w%3D1000%26q%3D80&imgrefurl=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Flens&tbnid=n5hAWsQ-sgKo_M&vet=12ahUKEwjtseXUy-j6AhVJGrcAHeljDKkQMygBegUIARC2AQ..i&docid=9PP2LeZYpO5BaM&w=1000&h=667&q=image&ved=2ahUKEwjtseXUy-j6AhVJGrcAHeljDKkQMygBegUIARC2AQ) center no-repeat;
+}

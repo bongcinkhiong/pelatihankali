@@ -1,0 +1,21 @@
+#wow{
+    background-color: lightblue;
+    padding-top: 20px;
+}
+
+body{
+    height: 2000px;
+}
+
+.about-section{
+    padding-top: 100px;
+}
+.project-section{
+    padding-top: 100px;
+}
+.tools-s-section{
+    padding-top: 100px;
+}
+.contact-section{
+    padding-top: 100px;
+}
